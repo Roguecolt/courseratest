@@ -1,2 +1,2 @@
 # courseratest
-theme: Hacker
+theme: jekyll-theme-hacker

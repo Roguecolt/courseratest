@@ -1,3 +1,2 @@
 # courseratest
-helloworld
 theme: Hacker
